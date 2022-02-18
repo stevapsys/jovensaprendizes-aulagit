@@ -1,3 +1,3 @@
 # PASSO A PASSO DE GIT
 
-Rafa - Adicionar como o passo a passo de como fazer um clonar um projeto, fazer um commit e atualizar o projeto 
+Fabi - Adicionar como criar uma nova bruch, fazer um pull request e o fluxo "nova branch - devolop" e "nova branch - master/main" 
